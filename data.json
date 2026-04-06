@@ -1,0 +1,768 @@
+{
+  "store": {
+    "name": "Kane Store",
+    "slogan": "Lo que quieras, cuando quieras",
+    "phoneRaw": "966002733",
+    "countryCode": "+51",
+    "whatsapp": "+51966002733"
+  },
+  "products": [
+    {
+      "id": "AJ331225",
+      "title": "ORGANIZADOR DE ZAPATOS",
+      "description": "Sin descripción",
+      "price": 36,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.09.11 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.09.12 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.09.13 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "YG-518A",
+      "title": "BOCINA PORTÁTIL 3",
+      "description": "Sin descripción",
+      "price": 29,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.47 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.48 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ330965",
+      "title": "JUEGO DE SARTENES",
+      "description": "Sin descripción",
+      "price": 41.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.45 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.46 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "BZ-T99",
+      "title": "️ TRIMER PROFESIONAL",
+      "description": "Sin descripción",
+      "price": 27.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.32 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.36 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.41 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.08.43 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "420125",
+      "title": "LLAVE UNIVERSAL 48 EN 1 ️",
+      "description": "Sin descripción",
+      "price": 31.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.07.04 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ330183",
+      "title": "SARTÉN ANTIADHERENTE MULTIUSO",
+      "description": "Sin descripción",
+      "price": 32,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.53 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.54 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ340368",
+      "title": "SECADOR DE ZAPATILLAS",
+      "description": "Sin descripción",
+      "price": 36,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.24 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.24 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.25 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.26 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ314408",
+      "title": "FUNDA IMPERMEABLE PARA MOCHILA ️",
+      "description": "Sin descripción",
+      "price": 25,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.05 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.06 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.06 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.06.07 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "C-3039",
+      "title": "BOLSO CRUZADO ELEGANTE",
+      "description": "Sin descripción",
+      "price": 31,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.46 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.47 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.47 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.48 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ314832",
+      "title": "TRAPEADOR GIRATORIO 360°",
+      "description": "Sin descripción",
+      "price": 25,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.28 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.29 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.29 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.30 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "616-4",
+      "title": "LÁMPARA SOLAR PARA EXTERIORES ️",
+      "description": "✅ Enciende sola de noche.\n✅ Sensor de movimiento integrado.\n✅ Ahorro total de energía.",
+      "price": 27,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.25 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.26 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.26 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.27 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "270307",
+      "title": "ARO DE LUZ PARA SELFIES",
+      "description": "🤳 Iluminación perfecta siempre.\n🎒 Diseño súper portátil.\n📱 Se adapta a celulares.",
+      "price": 24.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.23 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.24 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.24 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.25 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "150279",
+      "title": "LÁMPARA DE ESCRITORIO",
+      "description": "💡 Brazo súper flexible.\n⚙️ Base firme con interruptor.\n🏠 Usa focos estándar.",
+      "price": 31,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.21 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.21 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.05.22 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ350184",
+      "title": "LÁMPARA MATAMOSQUITOS",
+      "description": "🔵 Atrae con luz UV.\n⚡ Elimina al contacto.\n😴 Noches sin picaduras.",
+      "price": 24.7,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.35 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.35 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.36 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.37 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "140092",
+      "title": "CARTERA ELEGANTE",
+      "description": "⛓️ Hermosa correa de cadena.\n🎁 Viene en bolsa presentación.\n🖤 Diseño súper combinable.",
+      "price": 33,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.16 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.17 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.03.17 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "100265",
+      "title": "PORTA HUEVO ACRÍLICO 32 HUEVOS",
+      "description": "❄️ Ideal para tu refri.\n🔝 Dos niveles súper prácticos.\n💪 Material resistente y duradero.",
+      "price": 28,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 11.00.39 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.00.40 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.00.40 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.00.41 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "220132",
+      "title": "KIT VIAJERO ️",
+      "description": "♻️ Reutilizable y muy ecológico.\n🧳 Ideal para equipaje mano.\n💪 Material que no deforma.",
+      "price": 23.7,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.59.38 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.00.38 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 11.00.38 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "150225",
+      "title": "FOCO PELOTA",
+      "description": "✨ Diseño único y llamativo.\n💡 Luz brillante y clara.\n🔋 Súper ahorro de energía.",
+      "price": 25,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.56.45 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.56.45 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.56.46 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.56.47 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "270362",
+      "title": "MINI LAVADORA PLEGABLE PORTÁTIL",
+      "description": "👕 Lava prendas pequeñas rápido.\n💧 Ahorra agua y energía.\n🎒 Diseño compacto para viajes.",
+      "price": 45.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.51 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.52 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.53 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.54 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "AJ340003",
+      "title": "PLANCHA A VAPOR FORMA DE CORAZÓN ️",
+      "description": "🔄 Planchado 360 sin esquinas.\n💨 Vapor fuerte y rápido.\n👗 Ideal para cualquier tela.",
+      "price": 32,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.30 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.31 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.31 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "101560",
+      "title": "TÁPER CUADRADO CON TOMATODO",
+      "description": "🔒 Cierre 100% hermético seguro.\n📏 Gran capacidad de 850ml.\n🍴 Incluye cubiertos y divisiones.",
+      "price": 25,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.09 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.54.10 AM.jpeg"
+      ],
+      "catId": null,
+      "subCatId": null
+    },
+    {
+      "id": "100139",
+      "title": "SET DE TÁPERS HOME DECOR",
+      "description": "🔎 Transparencia para ver todo.\n🥄 Incluye cuchara a juego.\n✅ Tamaño ideal uso diario.",
+      "price": 26.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.53.28 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.53.29 AM.jpeg"
+      ],
+      "catId": "1775083874142",
+      "subCatId": "1775086963158"
+    },
+    {
+      "id": "350006A",
+      "title": "FREIDORA DE AIRE 6 LITROS",
+      "description": "👨‍👩‍👧‍👦 Gran capacidad 6 litros.\n⚡ Potencia de 2400W real.\n🍗 Comida sana sin aceite.",
+      "price": 92,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.53.09 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.53.09 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.53.10 AM.jpeg"
+      ],
+      "catId": "1775083874142",
+      "subCatId": "1775086917758"
+    },
+    {
+      "id": "270131",
+      "title": "RODILLERA CÓMODA Y AJUSTABLE ‍️",
+      "description": "🏋️ Ideal para rutinas fitness.\n⚙️ Correa de presión ajustable.\n🛡️ Máxima protección al entrenar.",
+      "price": 21,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.29 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.30 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.31 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.31 AM.jpeg"
+      ],
+      "catId": "1775083758366",
+      "subCatId": "1775087081502"
+    },
+    {
+      "id": "AJ3269V",
+      "title": "MANGUERA EXPANDIBLE 22.5 MTRS",
+      "description": "📏 Se expande 3 veces.\n🚫 No se enreda nunca.\n🌻 Riego súper fácil y rápido.",
+      "price": 31.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.10 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.11 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.12 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.52.12 AM.jpeg"
+      ],
+      "catId": "1775087015366",
+      "subCatId": "1775087062431"
+    },
+    {
+      "id": "L-803",
+      "title": "SOPORTE UNIVERSAL FLEXIBLE",
+      "description": "🔄 Rotación 360 grados completa.\n🚘 Úsalo en el retrovisor.\n✅ Agarre seguro y firme.",
+      "price": 21.4,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.55 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.55 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.56 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": "1775087110558"
+    },
+    {
+      "id": "130287",
+      "title": "CORTINAS DECORATIVAS MODERNAS",
+      "description": "📏 Medida ideal de 140x240.\n🌸 Diseño fresco y elegante.\n☀️ Aporta muchísima luminosidad.",
+      "price": 33,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.44 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.44 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.45 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.51.46 AM.jpeg"
+      ],
+      "catId": "1775083479862",
+      "subCatId": "1775083709878"
+    },
+    {
+      "id": "MS-3624BT",
+      "title": "PARLANTE PORTÁTIL BLUETOOTH",
+      "description": "🔋 Batería de larga duración.\n🌈 Luces LED ambiente único.\n🎶 Sonido claro y potente.",
+      "price": 45,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.46.23 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.46.24 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.46.25 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.46.25 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": "1775083374222"
+    },
+    {
+      "id": "1202",
+      "title": "PARLANTE PORTÁTIL LED",
+      "description": "🎶 Luces RGB rítmicas\n🔋 Diseño 100% portátil\n🔌 Cable tipo C incluido",
+      "price": 25,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.44.46 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.44.47 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.44.47 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": "1775083374222"
+    },
+    {
+      "id": "TG534",
+      "title": "PARLANTE PORTÁTIL R&G",
+      "description": "📡 Bluetooth 5.0 súper rápido\n📻 Radio FM incorporada\n💧 Resistente a la humedad",
+      "price": 55,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.44.19 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.44.19 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.44.20 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": "1775083374222"
+    },
+    {
+      "id": "ZQS1373",
+      "title": "MINI PARLANTE SING",
+      "description": "📲 Práctico soporte para celular\n🎵 Sonido potente y envolvente\n🔗 Función TWS (estéreo real)",
+      "price": 28.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.43.49 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.43.49 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": "1775083374222"
+    },
+    {
+      "id": "250159",
+      "title": "SANDALIAS FASHION PARA MUJER",
+      "description": "☁️ Comodidad para uso diario\n✨ Hermoso diseño banda tejida\n👗 Toque elegante y casual",
+      "price": 32,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.43.00 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.43.01 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.43.01 AM.jpeg"
+      ],
+      "catId": "1775083308542",
+      "subCatId": "1775083721366"
+    },
+    {
+      "id": "250160",
+      "title": "SANDALIAS CON BRILLOS",
+      "description": "🍃 Súper ligeras y frescas\n💎 Toque de brillo perfecto\n☀️ El calzado ideal para verano",
+      "price": 32,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.37 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.38 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.39 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.39 AM.jpeg"
+      ],
+      "catId": "1775083308542",
+      "subCatId": "1775083721366"
+    },
+    {
+      "id": "250162",
+      "title": "SANDALIA FASHION",
+      "description": "💖 Diseño en súper tendencia\n🚶‍♀️ Muy ligeras para caminar\n☁️ Máxima comodidad todo el día",
+      "price": 29.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.08 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.09 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.42.10 AM.jpeg"
+      ],
+      "catId": "1775083308542",
+      "subCatId": "1775083721366"
+    },
+    {
+      "id": "ISMAC-250158",
+      "title": "SANDALIA FASHION VERANO ️",
+      "description": "🎨 Gran variedad de colores\n🎀 Lindas tiras y punta cuadrada\n👗 Combinan con cualquier outfit",
+      "price": 28.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.41.47 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.41.48 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.41.48 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.41.49 AM.jpeg"
+      ],
+      "catId": "1775083308542",
+      "subCatId": "1775083721366"
+    },
+    {
+      "id": "AJ314198",
+      "title": "CORREA SOPORTE PARA RODILLA ‍️",
+      "description": "🩹 Alivia dolor de rótula\n🏋️ Brinda excelente estabilidad\n🧘‍♀️ Cómoda para uso diario",
+      "price": 22,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.40.46 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.40.47 AM.jpeg"
+      ],
+      "catId": "1775083758366",
+      "subCatId": "1775087081502"
+    },
+    {
+      "id": "AJ340497",
+      "title": "LOCALIZADOR BLUETOOTH ANTI-PÉRDIDA",
+      "description": "🔑 Encuentra tus llaves rápido.\n📲 Conexión directa al celular.\n🛡️ Adiós a las pérdidas.",
+      "price": 22.3,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.43 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.47 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.49 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": null
+    },
+    {
+      "id": "270285",
+      "title": "GUANTE TÁCTICO MULTIUSOS ️",
+      "description": "🛵 Ideal para motos\n💪 Úsalos en el gym\n⛰️ Perfectos para aventuras",
+      "price": 29,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.28.48 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.28.49 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.28.50 AM.jpeg"
+      ],
+      "catId": "1775083308542",
+      "subCatId": "1775083798166"
+    },
+    {
+      "id": "AJ450538",
+      "title": "PELOTA PARA JUEGO Y ENTRENAMIENTO ‍️",
+      "description": "👦 Para todas las edades\n🌳 Diversión al aire libre\n🥅 Ideal para entrenar",
+      "price": 24.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.29.05 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.29.05 AM.jpeg"
+      ],
+      "catId": "1775083758366",
+      "subCatId": "1775083763494"
+    },
+    {
+      "id": "150337",
+      "title": "LÁMPARA LUNA DECORATIVA",
+      "description": "🌙 Ilumina tu cuarto mágico.\n🎁 El regalo perfecto siempre.\n🛌 Relajación total antes de dormir.",
+      "price": 22.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.30.35 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.30.36 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.30.37 AM.jpeg"
+      ],
+      "catId": "1775083479862",
+      "subCatId": "1775083485942"
+    },
+    {
+      "id": "A-5273",
+      "title": "CINTURÓN ALIVIADOR DE VIENTRE ‍️",
+      "description": "🌡️ Calor profundo contra cólicos.\n⚡ Masaje vibrador súper relajante.\n🔋 Pantalla LED recargable fácil.",
+      "price": 35.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.32.41 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.32.42 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.32.43 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.32.44 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": null
+    },
+    {
+      "id": "24-37",
+      "title": "RUBOR EN BARRA MATTE",
+      "description": "✨ Acabado natural mate precioso.\n💧 Full hidratación con colágeno.\n🕒 Larga duración por 24H.",
+      "price": 26,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.33.35 AM.jpeg"
+      ],
+      "catId": "1775083357686",
+      "subCatId": "1775083513758"
+    },
+    {
+      "id": "1010",
+      "title": "PARCHES PARA EL ACNÉ ‍️",
+      "description": "🔴 Desinflama granitos al instante.\n🧽 Absorbe la grasa de raíz.\n🛡️ Protege de bacterias externas.",
+      "price": 21.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.33.40 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.33.42 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.33.43 AM.jpeg"
+      ],
+      "catId": "1775083357686",
+      "subCatId": "1775083906598"
+    },
+    {
+      "id": "AJ330786",
+      "title": "TETERA DE ACERO INOXIDABLE",
+      "description": "🔥 Hierve agua rapidísimo siempre.\n🪵 Mango elegante tipo madera.\n🚫 Servido perfecto sin derrames.",
+      "price": 38,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.41 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.42 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.43 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.43 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.44 AM.jpeg"
+      ],
+      "catId": "1775083874142",
+      "subCatId": "1775083882031"
+    },
+    {
+      "id": "AJ330736",
+      "title": "ESTANTE PARA MICROONDAS 1 NIVEL",
+      "description": "📏 Maximiza espacio en cocina.\n🧱 Acero muy resistente y firme.\n🧹 Fácil limpieza y armado.",
+      "price": 31.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.51 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.51 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.36.52 AM.jpeg"
+      ],
+      "catId": "1775083479862",
+      "subCatId": "1775083855814"
+    },
+    {
+      "id": "AJ312363",
+      "title": "MESA AUXILIAR DE TRUPAN ️",
+      "description": "✨ Decora cualquier rincón fácil.\n📚 Revistero inferior muy práctico.\n🏠 Diseño moderno y elegante.",
+      "price": 27.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.01 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.02 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.03 AM.jpeg"
+      ],
+      "catId": "1775083479862",
+      "subCatId": "1775083852398"
+    },
+    {
+      "id": "AJ340179",
+      "title": "TIMBRE INALÁMBRICO PARA PUERTA",
+      "description": "🛠️ Instalación en un minuto.\n📡 Excelente alcance sin cables.\n🎶 Varios tonos para elegir.",
+      "price": 31,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.15 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.15 AM.jpeg"
+      ],
+      "catId": "1775083330822",
+      "subCatId": "1775083820550"
+    },
+    {
+      "id": "AJ5929v",
+      "title": "CALZÓN MOLDEADOR DE CINTURA",
+      "description": "⏳ Esculpe tu figura rápido.\n👗 Súper invisible bajo la ropa.\n🥰 Control natural y cómodo.",
+      "price": 30.5,
+      "images": [
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.26 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.26 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.27 AM (1).jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.27 AM.jpeg",
+        "multimedia/WhatsApp Image 2026-03-31 at 10.37.28 AM.jpeg"
+      ],
+      "catId": "1775083308542",
+      "subCatId": "1775083836006"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1775083308542",
+      "name": "Moda",
+      "subcategories": [
+        {
+          "id": "1775083721366",
+          "name": "Sandalia"
+        },
+        {
+          "id": "1775083798166",
+          "name": "Guante"
+        },
+        {
+          "id": "1775083836006",
+          "name": "Calzón"
+        }
+      ]
+    },
+    {
+      "id": "1775083330822",
+      "name": "Tecnología",
+      "subcategories": [
+        {
+          "id": "1775083374222",
+          "name": "Parlante"
+        },
+        {
+          "id": "1775083820550",
+          "name": "Timbre"
+        },
+        {
+          "id": "1775087110558",
+          "name": "Soporte"
+        }
+      ]
+    },
+    {
+      "id": "1775083357686",
+      "name": "Belleza",
+      "subcategories": [
+        {
+          "id": "1775083513758",
+          "name": "Rubor"
+        },
+        {
+          "id": "1775083906598",
+          "name": "Parche"
+        },
+        {
+          "id": "1775083993334",
+          "name": "Organizador"
+        }
+      ]
+    },
+    {
+      "id": "1775083479862",
+      "name": "Decoración",
+      "subcategories": [
+        {
+          "id": "1775083485942",
+          "name": "Lámpara"
+        },
+        {
+          "id": "1775083709878",
+          "name": "Cortina"
+        },
+        {
+          "id": "1775083852398",
+          "name": "Mesa"
+        },
+        {
+          "id": "1775083855814",
+          "name": "Estante"
+        }
+      ]
+    },
+    {
+      "id": "1775083758366",
+      "name": "Deporte",
+      "subcategories": [
+        {
+          "id": "1775083763494",
+          "name": "Pelota"
+        },
+        {
+          "id": "1775087081502",
+          "name": "Rodillera"
+        }
+      ]
+    },
+    {
+      "id": "1775083874142",
+      "name": "Cocina",
+      "subcategories": [
+        {
+          "id": "1775083882031",
+          "name": "Tetera"
+        },
+        {
+          "id": "1775083933518",
+          "name": "Expositor"
+        },
+        {
+          "id": "1775086917758",
+          "name": "Freidora"
+        },
+        {
+          "id": "1775086963158",
+          "name": "Táper"
+        }
+      ]
+    },
+    {
+      "id": "1775087015366",
+      "name": "Jardín",
+      "subcategories": [
+        {
+          "id": "1775087062431",
+          "name": "Manguera"
+        }
+      ]
+    }
+  ]
+}
